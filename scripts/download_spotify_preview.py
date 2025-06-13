@@ -4,8 +4,8 @@ import requests
 
 # Set your credentials (replace these!)
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
-    client_id="69e464e19e964d4d8d1582bbd65a67cb",
-    client_secret="b80b0c8164a54fed90817c67da36635a"
+    client_id="",
+    client_secret=""
 ))
 
 # Example track (you can swap in any Spotify link)
